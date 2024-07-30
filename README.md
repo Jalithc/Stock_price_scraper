@@ -7,5 +7,3 @@
 - Python 3.x
 - requests library
 - beautifulsoup4 library
-
-  Feel Free to use this project and improve this more... 
